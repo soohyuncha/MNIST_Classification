@@ -1,5 +1,10 @@
 # MNIST_Classification
 
-See the .ipynb file
+> This is an implementation of MNIST classification with Pytorch. Refer to
 
-I used 'Jupyter Notebook' as development environment
+'mnist_classifier.ipynb'
+
+You can just run cells.
+
+> 'MNIST/raw' is dataset which is used in train/test phase
+> 'CNN_MNIST_Classifier_state_dict' is a state_dict of pre-trained Pytorch model. You can just load this state_dict without training.
