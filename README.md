@@ -6,6 +6,10 @@
 
 ### You can just run cells.
 
-+ About other files
-'MNIST/raw' is dataset which is used in train/test phase
-'CNN_MNIST_Classifier_state_dict' is a state_dict of pre-trained Pytorch model. You can just load this state_dict without training.
+
+
+### About other files
+
++ 'MNIST/raw' is dataset which is used in train/test phase
+
++ 'CNN_MNIST_Classifier_state_dict' is a state_dict of pre-trained Pytorch model. You can just load this state_dict without training.
